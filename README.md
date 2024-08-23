@@ -16,7 +16,7 @@ The dataset includes open-source data set from European Climate Assessment & Dat
 - Dataset-Answers-Weather_Prediction_Pleasant_Weather.csv
 
 ## **Folder Structure**
-**04-2024 Instacart Basket Analysis (Main Project Folder)**
+**Climate_Win (Main Project Folder)**
 - **01 Project Management(Sub Folder)**
   - Instacart project brief.
     <br/>
