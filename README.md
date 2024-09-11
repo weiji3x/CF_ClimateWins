@@ -24,6 +24,10 @@ The dataset includes open-source data set from European Climate Assessment & Dat
 - **03 Scripts(Sub Folder)**
   - Contains Jupyter notebooks with pyhton codes used for the data analysis.
   <br/>
+  <br/>
+- **04 Analysis(Sub Folder)**
+  - The Visualizations subfolder contains the visualizations created and used for data analysis and insights.
+  <br/>
 
 ## **Deliverables**
 Presentation on a comprehensive analysis of machine learning model prediction of weather condition, supported with python codes & visualisation, translated into actionable recommendations for the company.
